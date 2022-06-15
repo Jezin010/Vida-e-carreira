@@ -32,3 +32,4 @@ além de apresentar suas caracteristicas.
 * [Etapa 3.pdf](https://github.com/Jezin010/Vida-e-carreira/files/8911928/Etapa.3.pdf), onde discutimos, fizemos hipóteses, selecionamos a melhor,
 refutamos aquilo que não acreditamos que daria certo.
 
+[![NPM](https://img.shields.io/apm/l/recapacita)]
