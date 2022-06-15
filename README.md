@@ -9,6 +9,7 @@
 * Ícaro Gabriel 
 
 ## Sobre o projeto:
+
 RECAPACITA é um projeto social que apresenta uma solução viável para problemas socioeconômicos,
 como o desemprego e a falta de profissionais capacitados na área de tecnologia, que só vem crescendo.
 
