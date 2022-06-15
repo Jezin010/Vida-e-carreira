@@ -31,5 +31,5 @@ e o pais além de fazer a econômia girar, cresceria no cenário tecnológico.
 planejamento de entrevista e resultado que capturamos.
 * [Etapa 2.pdf](https://github.com/Jezin010/Vida-e-carreira/files/8912049/Etapa.2.pdf), onde fizemos a escolha da ideia mais viável, eficaz e inovadora,
 além de apresentar suas caracteristicas.
-* [Etapa 3.pdf](https://github.com/Jezin010/Vida-e-carreira/files/8911928/Etapa.3.pdf), onde discutimos, fizemos hipóteses, selecionamos a melhor,
+*[Etapa 3.pdf](https://github.com/Jezin010/Vida-e-carreira/files/8913990/Etapa.3.pdf), onde discutimos, fizemos hipóteses, selecionamos a melhor,
 refutamos aquilo que não acreditamos que daria certo.
